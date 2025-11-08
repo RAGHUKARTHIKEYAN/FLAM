@@ -102,6 +102,10 @@ After running the optimization, the script will output:
 The results include a LaTeX equation that can be directly used in Desmos:
 ```
 \left(t*\cos(θ)-e^{M\left|t\right|}\cdot\sin(0.3t)\sin(θ)\ +X,42+\ t*\sin(θ)+e^{M\left|t\right|}\cdot\sin(0.3t)\cos(θ)\right)
+
+## Output from Desmos:
+
+https://www.desmos.com/calculator/ntomuokcm2
 ```
 
 Where θ, M, and X are the optimized values.
